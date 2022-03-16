@@ -1,0 +1,19 @@
+{
+  "name": "@wryrych/design-tokens-example",
+  "version": "1.0.2",
+  "description": "",
+  "author": "Wojtek Ryrych wojtek.ryrych@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "tokens:build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryrych/design-tokens-example.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.1.1"
+  }
+}
